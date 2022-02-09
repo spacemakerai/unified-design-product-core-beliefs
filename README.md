@@ -1,6 +1,6 @@
 # Unified Design - Product Core Beliefs 
 
-This document outlines the Core Product Beliefs of the Unified Design team and is created to build alignment around the principles we believe are important to succeed with Product development. Together with our Tech Core Beliefs and Design Principles, the Product Core Beliefs summarize our take on product development!  
+This document outlines the Core Product Beliefs of the Unified Design team and is created to build alignment around the principles we believe are important to succeed with Product development. Together with our [Tech Core Beliefs](https://github.com/spacemakerai/spacemaker-tech-core-beliefs) and Design Principles, the Product Core Beliefs summarize our take on product development!  
 
 *Why do we need this?*
 
