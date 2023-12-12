@@ -1,6 +1,6 @@
-# Spacemaker - Product Core Beliefs 
+# Unified Design @ Autodesk - Product Core Beliefs 
 
-This document outlines the Core Product Beliefs of the Spacemaker team and is created to build alignment around the principles we believe are important to succeed with Product development. Together with our [Tech Core Beliefs](https://github.com/spacemakerai/spacemaker-tech-core-beliefs) and Design Principles, the Product Core Beliefs summarize our take on product development!  
+This document outlines the Core Product Beliefs of the Unified Design team @ Autodesk and is created to build alignment around the principles we believe are important to succeed with Product development. Together with our [Tech Core Beliefs](https://github.com/spacemakerai/spacemaker-tech-core-beliefs) and Design Principles, the Product Core Beliefs summarize our take on product development!  
 
 *Why do we need this?*
 
@@ -14,7 +14,7 @@ While there is a lot of great material on product, and product management out th
 - Agile product development is very different to waterfall product development 
 - SaaS has blurred the lines between product and go-to-market, making it more important for product teams to be fit to work in this intersection 
 
-Below are the 10 Core Beliefs that we believe are the most important for Product at Spacemaker. Note that these Core Beliefs are not static and will be iterated on over time as we learn more.  
+Below are the 10 Core Beliefs that we believe are the most important for Product at Unified Design. Note that these Core Beliefs are not static and will be iterated on over time as we learn more.  
 
 ## Work as a true trio of Product, Design, and Engineering 
 We believe that the best products are made when Product, Design, and Engineering operate as a jointly accountable trio. This ensures that we get the perspectives needed for high-quality decision-making and that the entire product team feels ownership for what they do. We value overlap between functional areas instead of creating silos/separation. This means that others can and should have an opinion about your functional area and you should have the same.  
